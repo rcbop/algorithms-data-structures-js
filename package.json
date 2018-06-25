@@ -1,0 +1,22 @@
+{
+  "name": "algorithms-data-structures-bootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcbop/algorithms-data-structures-udemy-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcbop/algorithms-data-structures-udemy-course/issues"
+  },
+  "homepage": "https://github.com/rcbop/algorithms-data-structures-udemy-course#readme",
+  "dependencies": {
+    "jest": "^23.1.0"
+  }
+}
